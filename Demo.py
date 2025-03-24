@@ -36,3 +36,19 @@
 #for price in prices:
 #    total += price
 #print(f"Your total is {total} AED")
+
+##RECURSION##
+#ITERATIVE#
+#def walk(steps):
+#    for step in range (1, steps + 1):
+#        print(f"You're take step #{step} ")
+#walk(100)
+
+#RECURSIVE#
+#def walk(steps):
+#    if steps == 0:
+#        return
+#    walk(steps - 1)
+#    print(f"You're take step #{steps} ")    
+#walk(100)
+

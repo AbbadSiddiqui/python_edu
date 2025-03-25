@@ -1,4 +1,5 @@
-#https://youtu.be/ix9cRaBkVe0?si=qM6tJ77dC-k0F1OI
+#https://youtu.be/ix9cRaBkVe0?si=qM6tJ77dC-k0F1OI (Bro Code 12H YT Tutorial)
+#https://www.youtube.com/watch?v=nLRL_NcnK-4 (Harvard CS50 Introdusction to Programming with Python)
 
 #WHILE LOOPS#
 #name = input("Enter your name : ")
@@ -52,3 +53,9 @@
 #    print(f"You're take step #{steps} ")    
 #walk(100)
 
+def main():
+    x = int(input("What is x? "))
+    print("x sqaured is", square(x))
+def square(n):
+    return n * n
+main()

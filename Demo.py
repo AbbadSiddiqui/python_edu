@@ -53,9 +53,25 @@
 #    print(f"You're take step #{steps} ")    
 #walk(100)
 
-def main():
-    x = int(input("What is x? "))
-    print("x sqaured is", square(x))
-def square(n):
-    return n * n
-main()
+#how to def#
+#def main():
+#    x = int(input("What is x? "))
+#    print("x sqaured is", square(x))
+#def square(n):
+#    return n * n
+#main()
+
+#how to while loop#
+#i = 7
+#while i != 0:
+#    print("meow")
+#    i = i - 1
+
+#i = 0
+#while i < 6:
+#    print("meow")
+#    i += 1
+
+#how to for loop#
+for i in range(7):
+   print("meow")

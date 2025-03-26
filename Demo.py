@@ -73,5 +73,17 @@
 #    i += 1
 
 #how to for loop#
-for i in range(7):
-   print("meow")
+#for i in range(7):
+#   print("meow")
+
+#how to dict#
+#students = {
+    "Hermione": "Gryffindor",
+    "Harry": "Gryffindor",
+    "Ron": "Gryffindor",
+    "Draco": "Slytherin",
+#}
+#print(students["Hermione"])
+#print(students["Harry"])
+#print(students["Ron"])
+#print(students["Draco"])

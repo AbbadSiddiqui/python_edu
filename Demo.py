@@ -106,3 +106,22 @@
 #o = response.json()
 #for result in o ["results"]:
 #   print(result["trackName"])
+
+#file i/o#
+#name = input("What's your name? ")
+#file = open("names.txt", "a")
+#file.write(f"{name}\n")
+#file.close()
+
+#name = input("What's your name? ")
+#with open("names.txt", "a") as file:
+#    file.write(f"{name}\n")
+
+#regular expressions#
+#email = input("What is your email? ").strip()
+#if "@" in email:
+#    print("Valid")
+#else:
+#    print("Invalid")
+#
+#import re

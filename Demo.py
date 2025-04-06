@@ -1,6 +1,23 @@
 #https://youtu.be/ix9cRaBkVe0?si=qM6tJ77dC-k0F1OI (Bro Code 12H YT Tutorial)
 #https://www.youtube.com/watch?v=nLRL_NcnK-4 (Harvard CS50 Introdusction to Programming with Python)
 
+#Python Calculator V1#
+#num2 = float(input("Enter 2nd Number: "))
+#operator = input("Choose your operator (+,-,*,/, %): ")
+
+#if operator == "+":
+#    print(num1 + num2)
+#elif operator == "-":
+#    print(num1 - num2)
+#elif operator == "*":
+#    print(num1 * num2)
+#elif operator == "/":
+#    print(num1 / num2)
+#elif operator == "%":
+#    print(num1 % num2)
+#else:
+#    print("Invalid operator")
+
 #WHILE LOOPS#
 #name = input("Enter your name : ")
 #while name == "":
@@ -123,5 +140,12 @@
 #    print("Valid")
 #else:
 #    print("Invalid")
-#
 #import re
+
+#oop(object-oriented programming)#
+#tuple is when you do x, y
+#class able to create  your own objects in oop
+#you create objects from classes
+
+#dunder method (double underscores)
+#def __init__(self) -> None: 

@@ -1,3 +1,4 @@
+
 questions = ("How many elements are in the periodic table?: ",
                        "Which animal lays the largest eggs?: ",
                        "What is the most abundant gas in Earth's atmosphere?: ",
@@ -36,7 +37,7 @@ print("       RESULTS        ")
 print("----------------------")
 
 print("answers: ", end="")
-for answer in answers:
+for answer in answers: 
     print(answer, end=" ")
 print()
 
@@ -45,5 +46,5 @@ for guess in guesses:
     print(guess, end=" ")
 print()
 
-score = int(score / len(questions) * 100)
-print(f"Your score is: {score}%")
+score = score
+print(f"Your score is: {score}/5")

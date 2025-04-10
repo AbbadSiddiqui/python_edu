@@ -80,6 +80,5 @@ def quiz_game():
         print(guess, end=" ")
     print()
     print(f"Your score is: {score}/{len(questions)}")
-
 # Run the quiz game
 quiz_game()

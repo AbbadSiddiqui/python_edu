@@ -26,7 +26,3 @@
 - 🔧 Worked on [Project Name/Repository Name](#)
 - 🐞 Fixed [Issue Name](#)
 - 🌟 Starred [Repository Name](#)
-
----
-
-Feel free to customize this README template further to include more specific details about your projects, achievements, or interests.
